@@ -1,0 +1,21 @@
+body{
+  background-color: #04a6eb;
+  color: #fdffff;
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+}
+button{
+  padding: 5px 20px;
+  background-color: #91c6f4;
+  color: #000;
+  border-style: none;
+  transition: .5s;
+}
+button:hover{
+  background-color: #256ba8;
+  color: #fdffff;
+}
+input{
+  height: 24px;
+}
